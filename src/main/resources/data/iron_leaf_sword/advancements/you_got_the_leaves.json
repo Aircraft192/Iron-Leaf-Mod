@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "iron_leaf_sword:iron_leaf_scythe"
+    },
+    "title": {
+      "translate": "advancements.you_got_the_leaves.title"
+    },
+    "description": {
+      "translate": "advancements.you_got_the_leaves.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "you_got_the_leaves": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "recipes": [
+      "iron_leaf_sword:iron_leaf_sword_recipe",
+      "iron_leaf_sword:iron_leaf_pickaxe_crafting",
+      "iron_leaf_sword:iron_leaf_axe_crafting",
+      "iron_leaf_sword:iron_leaf_shovel_crafting",
+      "iron_leaf_sword:iron_leaf_hoe_crafting",
+      "iron_leaf_sword:iron_leaf_scythe_crafting"
+    ]
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

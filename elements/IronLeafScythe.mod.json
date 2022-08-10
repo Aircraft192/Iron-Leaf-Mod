@@ -1,0 +1,30 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ironleafhoe2",
+    "customModelName": "Normal",
+    "name": "Iron Leaf Scythe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 6.141,
+    "attackSpeed": 1.0,
+    "enchantability": 30,
+    "damageVsEntity": 7.141,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IronLeafSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

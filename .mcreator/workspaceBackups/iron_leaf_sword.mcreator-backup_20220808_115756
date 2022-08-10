@@ -1,0 +1,215 @@
+{
+  "mod_elements": [
+    {
+      "name": "IronLeafSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_sword"
+    },
+    {
+      "name": "IronLeafSwordRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_sword_recipe"
+    },
+    {
+      "name": "IronLeafSwordRecipeUnlock",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_sword_recipe_unlock",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cutoftheleaves",
+      "type": "enchantment",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutoftheleaves"
+    },
+    {
+      "name": "Cutoftheleaveseffect",
+      "type": "potioneffect",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutoftheleaveseffect"
+    },
+    {
+      "name": "CutoftheleaveseffectOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cutoftheleaveseffect_on_effect_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronLeafSwordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_sword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronLeafPickaxe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_pickaxe"
+    },
+    {
+      "name": "IronLeafAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_axe"
+    },
+    {
+      "name": "IronLeafShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_shovel"
+    },
+    {
+      "name": "IronLeafHoe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_hoe"
+    },
+    {
+      "name": "IronLeafScythe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_scythe"
+    },
+    {
+      "name": "IronLeafPickaxeCrafting",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_pickaxe_crafting"
+    },
+    {
+      "name": "IronLeafAxeCrafting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_axe_crafting"
+    },
+    {
+      "name": "IronLeafShovelCrafting",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_shovel_crafting"
+    },
+    {
+      "name": "IronLeafHoeCrafting",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_hoe_crafting"
+    },
+    {
+      "name": "IronLeafScytheCrafting",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_leaf_scythe_crafting"
+    },
+    {
+      "name": "YouGotTheLeaves",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "you_got_the_leaves"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.iron_leaf_sword.iron_leaf_pickaxe": "Iron Leaf Pickaxe",
+      "item.iron_leaf_sword.iron_leaf_shovel": "Iron Leaf Shovel",
+      "enchantment.iron_leaf_sword.cutoftheleaves": "Cut Of The Leaves",
+      "advancements.you_got_the_leaves.title": "You Got The Leaves",
+      "effect.iron_leaf_sword.cutoftheleaveseffect": "Cut Of The Leaves",
+      "item.iron_leaf_sword.iron_leaf_axe": "Iron Leaf Axe",
+      "item.iron_leaf_sword.iron_leaf_hoe": "Iron Leaf Hoe",
+      "advancements.you_got_the_leaves.descr": "Receive the Recipes for Iron Leaf Items",
+      "death.attack.cut_of_the_leaves": "",
+      "item.iron_leaf_sword.iron_leaf_sword": "Iron Leaf Sword",
+      "item.iron_leaf_sword.iron_leaf_scythe": "Iron Leaf Scythe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "iron_leaf_sword",
+    "modName": "Iron Leaf Sword",
+    "version": "1.0.0",
+    "author": "finnl, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "de.aircraft.ironleafsword",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

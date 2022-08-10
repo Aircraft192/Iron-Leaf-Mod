@@ -1,0 +1,13 @@
+{
+  "item.iron_leaf_sword.iron_leaf_pickaxe": "Eisenblattspitzhacke",
+  "item.iron_leaf_sword.iron_leaf_shovel": "Eisenblattschaufel",
+  "enchantment.iron_leaf_sword.cutoftheleaves": "Schnitt der Blätter",
+  "advancements.you_got_the_leaves.title": "Zu den Blättern!",
+  "effect.iron_leaf_sword.cutoftheleaveseffect": "Schnitt der Blätter",
+  "item.iron_leaf_sword.iron_leaf_axe": "Eisenblattaxt",
+  "item.iron_leaf_sword.iron_leaf_hoe": "Eisenblatthacke",
+  "advancements.you_got_the_leaves.descr": "Erhalte die Rezepte für Eisenblattgegenstände",
+  "death.attack.cut_of_the_leaves": "%1$s wurde von Blättern zerschnitten",
+  "item.iron_leaf_sword.iron_leaf_sword": "Eisenblattschwert",
+  "item.iron_leaf_sword.iron_leaf_scythe": "Eisenblattsense"
+}
