@@ -30,6 +30,7 @@ import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
 
+import de.aircraft.ironleafsword.init.IronLeafSwordModPotions;
 import de.aircraft.ironleafsword.init.IronLeafSwordModMobEffects;
 import de.aircraft.ironleafsword.init.IronLeafSwordModItems;
 import de.aircraft.ironleafsword.init.IronLeafSwordModEnchantments;
@@ -51,6 +52,7 @@ public class IronLeafSwordMod {
 
 		IronLeafSwordModEnchantments.REGISTRY.register(bus);
 		IronLeafSwordModMobEffects.REGISTRY.register(bus);
+		IronLeafSwordModPotions.REGISTRY.register(bus);
 
 	}
 

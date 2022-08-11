@@ -9,7 +9,7 @@ import de.aircraft.ironleafsword.procedures.CutoftheleaveseffectOnEffectActiveTi
 
 public class CutoftheleaveseffectMobEffect extends MobEffect {
 	public CutoftheleaveseffectMobEffect() {
-		super(MobEffectCategory.HARMFUL, -11759612);
+		super(MobEffectCategory.HARMFUL, -65536);
 	}
 
 	@Override

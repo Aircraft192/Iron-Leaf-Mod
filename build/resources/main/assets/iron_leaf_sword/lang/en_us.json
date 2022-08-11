@@ -1,13 +1,17 @@
 {
-  "item.iron_leaf_sword.iron_leaf_pickaxe": "Iron Leaf Pickaxe",
   "item.iron_leaf_sword.iron_leaf_shovel": "Iron Leaf Shovel",
-  "enchantment.iron_leaf_sword.cutoftheleaves": "Cut Of The Leaves",
-  "advancements.you_got_the_leaves.title": "You Got The Leaves",
   "effect.iron_leaf_sword.cutoftheleaveseffect": "Cut Of The Leaves",
   "item.iron_leaf_sword.iron_leaf_axe": "Iron Leaf Axe",
-  "item.iron_leaf_sword.iron_leaf_hoe": "Iron Leaf Hoe",
   "advancements.you_got_the_leaves.descr": "Receive the Recipes for Iron Leaf Items",
   "death.attack.cut_of_the_leaves": "%1$s was cut by leaves",
-  "item.iron_leaf_sword.iron_leaf_sword": "Iron Leaf Sword",
-  "item.iron_leaf_sword.iron_leaf_scythe": "Iron Leaf Scythe"
+  "item.minecraft.lingering_potion.effect.wine": "Lingering-Wine",
+  "item.iron_leaf_sword.iron_leaf_scythe": "Iron Leaf Scythe",
+  "item.minecraft.tipped_arrow.effect.wine": "Wine-Arrow",
+  "item.minecraft.potion.effect.wine": "Wine",
+  "item.iron_leaf_sword.iron_leaf_pickaxe": "Iron Leaf Pickaxe",
+  "enchantment.iron_leaf_sword.cutoftheleaves": "Cut Of The Leaves",
+  "advancements.you_got_the_leaves.title": "You Got The Leaves",
+  "item.iron_leaf_sword.iron_leaf_hoe": "Iron Leaf Hoe",
+  "item.minecraft.splash_potion.effect.wine": "Splash-Wine",
+  "item.iron_leaf_sword.iron_leaf_sword": "Iron Leaf Sword"
 }

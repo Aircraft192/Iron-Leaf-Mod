@@ -1,13 +1,17 @@
 {
-  "item.iron_leaf_sword.iron_leaf_pickaxe": "Eisenblattspitzhacke",
   "item.iron_leaf_sword.iron_leaf_shovel": "Eisenblattschaufel",
-  "enchantment.iron_leaf_sword.cutoftheleaves": "Schnitt der Blätter",
-  "advancements.you_got_the_leaves.title": "Zu den Blättern!",
   "effect.iron_leaf_sword.cutoftheleaveseffect": "Schnitt der Blätter",
   "item.iron_leaf_sword.iron_leaf_axe": "Eisenblattaxt",
-  "item.iron_leaf_sword.iron_leaf_hoe": "Eisenblatthacke",
   "advancements.you_got_the_leaves.descr": "Erhalte die Rezepte für Eisenblattgegenstände",
   "death.attack.cut_of_the_leaves": "%1$s wurde von Blättern zerschnitten",
-  "item.iron_leaf_sword.iron_leaf_sword": "Eisenblattschwert",
-  "item.iron_leaf_sword.iron_leaf_scythe": "Eisenblattsense"
+  "item.minecraft.lingering_potion.effect.wine": "Lingering-Wine",
+  "item.iron_leaf_sword.iron_leaf_scythe": "Eisenblattsense",
+  "item.minecraft.tipped_arrow.effect.wine": "Wine-Arrow",
+  "item.minecraft.potion.effect.wine": "Wine",
+  "item.iron_leaf_sword.iron_leaf_pickaxe": "Eisenblattspitzhacke",
+  "enchantment.iron_leaf_sword.cutoftheleaves": "Schnitt der Blätter",
+  "advancements.you_got_the_leaves.title": "Zu den Blättern!",
+  "item.iron_leaf_sword.iron_leaf_hoe": "Eisenblatthacke",
+  "item.minecraft.splash_potion.effect.wine": "Splash-Wine",
+  "item.iron_leaf_sword.iron_leaf_sword": "Eisenblattschwert"
 }

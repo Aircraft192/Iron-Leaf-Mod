@@ -5,7 +5,7 @@
     "effectName": "Cut Of The Leaves",
     "icon": "ironleafsword.png",
     "color": {
-      "value": -11759612,
+      "value": -65536,
       "falpha": 0.0
     },
     "isInstant": false,
